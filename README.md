@@ -19,7 +19,7 @@ Es esencial que la base de datos haya sido creada y que su nombre esté definido
 
 
 
-## Requisitos de Docker
+## Requisitos para Correr en Docker
 
 - **Docker**: Debe estar instalado en su sistema.
 - Ejecute el siguiente comando en la ruta raíz del proyecto:
