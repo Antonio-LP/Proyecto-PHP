@@ -62,7 +62,7 @@ Para ejecutar las pruebas, utilice el siguiente comando en el contenedor, asegur
 ~~~bash
 vendor/bin/phpunit
 ~~~
-
+![Ejemplo](extras-img/pruebas-run-docker.png)
 
 # Extras:
 ## Requisitos para Correr Localmente
