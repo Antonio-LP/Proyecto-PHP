@@ -32,18 +32,6 @@ docker-compose up -d
 
 A continuación, se presentan ejemplos de solicitudes HTTP que pueden ser utilizadas en el proyecto:
 
-### Solicitud DELETE
-
-~~~http
-DELETE http://localhost:80/public/user?id=1d6ae4f65b89405fe9da8c1e65ec3c08
-~~~
-
-### Solicitud GET
-
-~~~http
-GET http://localhost:80/public/user?id=1d6ae4f65b89405fe9da8c1e65ec3c08
-~~~
-
 ### Solicitud POST
 
 ~~~http
@@ -55,6 +43,16 @@ POST http://localhost:80/public/user
 }
 ~~~
 
+### Solicitud GET
+
+~~~http
+GET http://localhost:80/public/user?id=1d6ae4f65b89405fe9da8c1e65ec3c08
+~~~
+### Solicitud DELETE
+
+~~~http
+DELETE http://localhost:80/public/user?id=1d6ae4f65b89405fe9da8c1e65ec3c08
+~~~
 
 
 ### Ejecución de Pruebas Unit
