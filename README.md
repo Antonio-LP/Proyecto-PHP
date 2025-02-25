@@ -17,8 +17,6 @@ Cree un archivo `.env` siguiendo el formato proporcionado en el archivo `.env.ex
 
 Es esencial que la base de datos haya sido creada y que su nombre esté definido en el archivo `.env`.
 
-
-
 ## Requisitos para Correr en Docker
 
 - **Docker**: Debe estar instalado en su sistema.
